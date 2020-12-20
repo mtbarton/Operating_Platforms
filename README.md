@@ -1,1 +1,8 @@
-# Operating_Platforms
+# Operating_Platforms "Draw It of Lose It" Design Template
+
+The client, The Gaming Room, is seeking to adapt their Android mobile game, Draw It or Lose It, to a web-based application that serves multiple platforms. 
+The recommendations section is particularly well-developed; addressing the clients specifications and limitations while giving them a clear path forward with the development of their aplication
+The UML diagram development greatly assists in giving the team clear viusual representation of the application's components and how they are desinged to interact with each other and the user.
+If there was one section that needed revision, more details could be added to the development evaluation table to furhter flush out the costs and benefits of developing on different operating platforms.
+Based on the clients specifications, the user would need to be able to acces a web-based game wuickly and effeciently on multiple platforms. This drove the recommendations to develop the application in Java and JavaScript for intercompatibility, with Ruby on Rails handling storage management. It's important to consider the user's needs because they will be attempting to access the application on their varied devices and platforms. This process needs to smooth and seemless to ensure user satisfaction.
+The approach to this software design started with the clients needs and limitations. This lead to a domain model compartmentalizing all of the functions the client requires into system architecture and domain models. Finally the design eneters it's recommendations stage to cement the platforms, development tools, and management utilities the application will take advantage of. 
